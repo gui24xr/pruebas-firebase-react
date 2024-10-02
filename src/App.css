@@ -1,0 +1,14 @@
+#root {
+  width: 100%;  /* Asegúrate de que el ancho sea del 100% */
+  margin: 0 auto; /* Mantén esto si quieres centrar el contenido */
+ 
+  text-align: center;
+}
+
+
+
+
+
+.read-the-docs {
+  color: #888;
+}
